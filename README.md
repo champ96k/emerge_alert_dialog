@@ -43,8 +43,8 @@ dependencies:
 
 <table>
   <tr>
-    <td><img src="screenshot/screenshot1.gif"></td>
-    <td><img src="screenshot/screenshot2.gif"></td>
+    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot1.gif"></td>
+    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot2.gif"></td>
   </tr>
  </table>
 
@@ -53,7 +53,7 @@ dependencies:
 
  <table>
   <tr>
-    <td><img src="screenshot/screenshot3.gif"></td>
+    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot3.gif"></td>
   </tr>
  </table>
 
