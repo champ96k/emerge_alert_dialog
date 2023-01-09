@@ -1,29 +1,64 @@
-An emerge alert dialog package in Dart is a package that allows developers to easily create and display alert dialogs with custom animations. Emerge dialogs are used to display important information or messages to the user and often include a call to action, such as a button to confirm or dismiss the dialog.
+# Emerge Alert Dialog
 
- is a modal window, which means that the user must interact with the dialog box before they can continue using the parent application. An Alert Dialog usually has two or three buttons: a "positive" button (e.g., "OK"), a "negative" button (e.g., "Cancel"), and sometimes a "neutral" button (e.g., "Maybe"). The user can press one of these buttons to indicate their response.
+An emerge alert dialog package is allows developers to easily create and display alert dialogs with custom animations. Emerge dialogs are used to display important information or messages to the user and often include a call to action, such as a button to confirm or dismiss the dialog.
 
 In the context of the Emerge framework, an Alert Dialog is a type of dialog box that can be used to display an alert message or to prompt the user for a response within the context of an Emerge application.
 
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
+[Example](https://github.com/champ96k/emerge_alert_dialog/tree/main/example)
 
-```dart
-const like = 'sample';
+To use this package :
+
+- add the dependency to your pubspec.yaml file.
+
+```yaml
+dependencies:
+
+  emerge_alert_dialog: ^0.0.1
 ```
 
-## Additional information
+### How to use
 
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+```dart
+    Future<void> _showMyDialog(BuildContext context) async {
+        return showDialog<void>(
+        context: context,
+        barrierDismissible: true,
+        builder: (BuildContext context) {
+            return EmergeAlertDialog(
+            alignment: Alignment.bottomCenter,
+            emergeAlertDialogOptions: EmergeAlertDialogOptions(
+                title: const Text("Privacy Info"),
+             ),
+          );
+        },
+      );
+    }
+```
+
+### Screenshot
+
+
+<table>
+  <tr>
+     <td>Example 1</td>
+     <td>Example 2</td>
+     <td>Example 3</td>
+  </tr>
+  <tr>
+    <td><img src="screenshot/screenshot1.gif" width=270 height=480></td>
+    <td><img src="screenshot/screenshot2.gif" width=270 height=480></td>
+    <td><img src="screenshot/screenshot3.gif" width=270 height=480></td>
+  </tr>
+ </table>
+
+
+### Created & Maintained By
+
+[Tushar Nikam](https://champ96k.github.io)
+
+<a href="https://www.twitter.com/champ_96k"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25> </a>
+<br>
+<a href="https://www.linkedin.com/in/tushar-nikam-a29a97131/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
