@@ -43,10 +43,6 @@ dependencies:
 
 <table>
   <tr>
-     <td><center>Example 1</></td>
-     <td><center>Example 2</></td>
-  </tr>
-  <tr>
     <td><img src="screenshot/screenshot1.gif"></td>
     <td><img src="screenshot/screenshot2.gif"></td>
   </tr>
@@ -56,9 +52,6 @@ dependencies:
 <br>
 
  <table>
-  <tr>
-     <td><center>Example 3</></td>
-  </tr>
   <tr>
     <td><img src="screenshot/screenshot3.gif"></td>
   </tr>
