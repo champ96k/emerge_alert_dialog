@@ -1,0 +1,20 @@
+name: emerge_alert_dialog
+description: An emerge alert dialog package in Dart is a package that allows developers to easily create and display alert dialogs with custom animations. Emerge dialogs are used to display important information or messages to the user and often include a call to action, such as a button to confirm or dismiss the dialog.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+# The following section is specific to Flutter.
+flutter:
