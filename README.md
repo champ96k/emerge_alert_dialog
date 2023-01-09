@@ -16,7 +16,7 @@ To use this package :
 ```yaml
 dependencies:
 
-  emerge_alert_dialog: ^0.0.1
+  emerge_alert_dialog: ^0.0.2
 ```
 
 ### How to use
@@ -40,11 +40,10 @@ dependencies:
 
 ### Screenshot
 
-
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot1.gif"></td>
-    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot2.gif"></td>
+    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot1.mov"></td>
+    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot2.mov"></td>
   </tr>
  </table>
 
@@ -53,7 +52,39 @@ dependencies:
 
  <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot3.gif"></td>
+    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot3.mov"></td>
+    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot4.mov"></td>
+  </tr>
+ </table>
+
+<br>
+<br>
+
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot5.mov"></td>
+    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot5.mov"></td>
+  </tr>
+ </table>
+
+<br>
+<br>
+
+ <table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot7.gif"></td>
+    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot8.gif"></td>
+  </tr>
+ </table>
+
+<br>
+<br>
+
+  <table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot9.gif"></td>
+    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot1.mov"></td>
   </tr>
  </table>
 

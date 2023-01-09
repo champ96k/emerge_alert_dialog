@@ -30,7 +30,7 @@ class _HomeScreenState extends State<HomeScreen> {
       barrierDismissible: true,
       builder: (BuildContext context) {
         return EmergeAlertDialog(
-          alignment: Alignment.bottomCenter,
+          alignment: Alignment.bottomRight,
           emergeAlertDialogOptions: EmergeAlertDialogOptions(
             title: const Text("Privacy Info"),
             content: _content(),
