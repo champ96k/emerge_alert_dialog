@@ -43,14 +43,24 @@ dependencies:
 
 <table>
   <tr>
-     <td>Example 1</td>
-     <td>Example 2</td>
-     <td>Example 3</td>
+     <td><center>Example 1</></td>
+     <td><center>Example 2</></td>
   </tr>
   <tr>
-    <td><img src="screenshot/screenshot1.gif" width=270 height=480></td>
-    <td><img src="screenshot/screenshot2.gif" width=270 height=480></td>
-    <td><img src="screenshot/screenshot3.gif" width=270 height=480></td>
+    <td><img src="screenshot/screenshot1.gif"></td>
+    <td><img src="screenshot/screenshot2.gif"></td>
+  </tr>
+ </table>
+
+<br>
+<br>
+
+ <table>
+  <tr>
+     <td><center>Example 3</></td>
+  </tr>
+  <tr>
+    <td><img src="screenshot/screenshot3.gif"></td>
   </tr>
  </table>
 
