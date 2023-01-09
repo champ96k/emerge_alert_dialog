@@ -1,7 +1,7 @@
 name: emerge_alert_dialog
 description: An emerge alert dialog is allows developers to easily create and display alert dialogs with custom animations.
 
-version: 0.0.2
+version: 0.0.3
 
 homepage: https://github.com/champ96k/emerge_alert_dialog
 
@@ -16,8 +16,10 @@ dependencies:
     sdk: flutter
 
 dev_dependencies:
+
   flutter_test:
     sdk: flutter
+
   flutter_lints: ^1.0.0
 
 # The following section is specific to Flutter.

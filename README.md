@@ -16,7 +16,7 @@ To use this package :
 ```yaml
 dependencies:
 
-  emerge_alert_dialog: ^0.0.2
+  emerge_alert_dialog: ^0.0.3
 ```
 
 ### How to use
