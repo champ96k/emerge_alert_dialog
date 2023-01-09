@@ -42,8 +42,8 @@ dependencies:
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot1.mov"></td>
-    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot2.mov"></td>
+    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot1.gif"></td>
+    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot2.gif"></td>
   </tr>
  </table>
 
@@ -52,8 +52,8 @@ dependencies:
 
  <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot3.mov"></td>
-    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot4.mov"></td>
+    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot3.gif"></td>
+    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot4.gif"></td>
   </tr>
  </table>
 
@@ -63,8 +63,8 @@ dependencies:
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot5.mov"></td>
-    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot5.mov"></td>
+    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot5.gif"></td>
+    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot6.gif"></td>
   </tr>
  </table>
 
@@ -84,7 +84,7 @@ dependencies:
   <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot9.gif"></td>
-    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot1.mov"></td>
+    <td><img src="https://raw.githubusercontent.com/champ96k/emerge_alert_dialog/main/screenshot/screenshot1.gif"></td>
   </tr>
  </table>
 
